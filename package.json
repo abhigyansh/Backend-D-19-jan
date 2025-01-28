@@ -1,15 +1,20 @@
 {
   "name": "backenddevelopeement",
   "version": "1.0.0",
-  "description": "Backend developement start",
+  "description": "Backend development",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "javascript",
-    "Backend"
+    "backend",
+    "node.js"
   ],
-  "author": "Gopal Sharma",
-  "license": "ISC"
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
